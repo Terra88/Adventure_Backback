@@ -1,0 +1,1 @@
+I used an AI assistant to assist in reviewing Rust ownership/borrowing patterns.
